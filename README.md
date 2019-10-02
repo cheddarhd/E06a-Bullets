@@ -23,3 +23,5 @@ The arcade.check_for_collision_with_list(sprite, spriteList) method takes a spri
 self.player.kill() will remove the player sprite. .kill() can be (similarly) used to remove any sprite.
 
 As always, let me know if you have any questions.
+
+This was a cool excercise that shows us the basics of the shooting in space shooter that we will be making. This is a great thing to practice when working on the space shooter because I didn't know how the bullets worke.
